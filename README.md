@@ -17,5 +17,5 @@ ComponentB
 // ... later content omitted
 ```
 
-This indicates that the `BeanY` has higher precedence and is provided by Spring before `BeanX` because of its higher order (lowest value).
+This indicates that the `BeanY` has higher precedence and is provided by Spring before `BeanX` because of its higher order precedence (lowest value).
 The same principle is applied according to the values printed regarding to `ComponentC` and `ComponentB`.
