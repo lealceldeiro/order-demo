@@ -1,5 +1,5 @@
 # order-demo
-Demo project for showing the usage of @order annotation in Spring Boot
+Demo project for showing the usage of `@Order` annotation in Spring Boot
 
 Run the app and you'll see on the console the following:
 
